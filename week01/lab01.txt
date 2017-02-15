@@ -20,3 +20,4 @@ drwxr-xr-x  2 fahmi51 StafCS 4096 Feb 15 12:43 week09
 drwxr-xr-x  2 fahmi51 StafCS 4096 Feb 15 12:43 week10
 drwxr-xr-x  2 fahmi51 StafCS 4096 Feb 15 12:43 xtra
 /home/fasilkom/mahasiswa/f/fahmi51/os171/week01
+Today is 15 Feb 2017 at 13:08:06
