@@ -1,0 +1,5 @@
+What I do in week 1:
+	clone repo from badak
+	push from badak
+	pull request from badak
+	basic linux command

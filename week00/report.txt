@@ -1,1 +1,7 @@
 #Fahmi
+What I do in week 0:
+	register google account, github account
+	create repository named os171
+	filling form
+	SSH to badak server
+	
