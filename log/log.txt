@@ -11,9 +11,11 @@ w02-170223-19-CategoryCode:PS-Doing Lab02
 w02-170223-13-LR-About C Language, class
 w02-170223-13-LR-About C Language, class
 w02-170223-14-LR-About C Language, class
-w02-170304-12-CategoryCode:PS-Doing Lab03
-w02-170304-12-CategoryCode:PS-Doing Lab03
-w02-170302-13-LR-About Memory Addressing, class
-w02-170302-13-LR-About Memory Addressing, class
-w02-170302-14-LR-About Memory Addressing, class
-
+w03-170304-12-CategoryCode:PS-Doing Lab03
+w03-170304-12-CategoryCode:PS-Doing Lab03
+w03-170302-13-LR-About Memory Addressing, class
+w03-170302-13-LR-About Memory Addressing, class
+w03-170302-14-LR-About Memory Addressing, class
+w05-170315-13-LR-About Virtual Memory, class
+w05-170315-13-LR-About Virtual Memory, class
+w05-170318-12-CategoryCode:PS-Doing Lab05
