@@ -19,3 +19,6 @@ w03-170302-14-LR-About Memory Addressing, class
 w05-170315-13-LR-About Virtual Memory, class
 w05-170315-13-LR-About Virtual Memory, class
 w05-170318-12-CategoryCode:PS-Doing Lab05
+w06-170413-13-LR-Synchronization
+w06-170413-14-LR-Synchronization
+w06-170415-09-PS- Doing Lab06
