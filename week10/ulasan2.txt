@@ -1,0 +1,7 @@
+Github Account :fahmitok97
+URL Ulasan : http://fahmitok123.blogspot.co.id/2017/05/intro-to-lxc-lxd-and-linux-container.html
+URL Video (6.51) : https://www.youtube.com/watch?v=qJoKrHXUAgI
+Pemetaan : Week10  (Container)
+Revisi Pertama : 19-05-2017
+Revisi Terakhir : 19-05-2017
+
